@@ -44,7 +44,7 @@ The following business questions were answered using multi-table joins, CTEs, wi
 ---
 
 ## Key Business Insights
-- **Low Customer Retention:** Out of **93,358** unique delivered customers, only **2,801** placed more than one order a **3% repeat customer rate**, highlighting a major opportunity for loyalty and re-engagement campaigns.
+- **Low Customer Retention:** Out of **93,358** unique delivered customers, only **2,801** placed more than one order - a **3% repeat customer rate**, highlighting a major opportunity for loyalty and re-engagement campaigns.
 - **Black Friday Revenue Spike:** Monthly revenue peaked in **November 2017** at **987,765.37**, representing a **+52.37% MoM jump** driven by seasonal demand.
 - **Conservative Delivery Estimates:** Negative average delay values across states indicate that orders are frequently delivered ahead of Olist's estimated delivery dates.
 
